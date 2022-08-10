@@ -8,3 +8,8 @@
 	url = https://github.com/bodkan/admixr
 	shallow = true
 	registered = true
+[submodule "slendr"]
+	path = slendr
+	url = https://github.com/bodkan/slendr
+	shallow = true
+	registered = true

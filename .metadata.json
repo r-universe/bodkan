@@ -2,5 +2,9 @@
   {
     "package": "admixr",
     "oncran": true
+  },
+  {
+    "package": "slendr",
+    "oncran": true
   }
 ]
